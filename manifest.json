@@ -22,12 +22,14 @@
         {
             "src": "img/icons/icon-128x128.png",
             "type": "image/png",
-            "sizes": "128x128"
+            "sizes": "128x128",
+            "purpose": "any maskable"
         },
         {
             "src": "img/icons/icon-144x144.png",
             "type": "image/png",
-            "sizes": "144x144"
+            "sizes": "144x144",
+            "purpose": "any maskable"
         },
         {
             "src": "img/icons/icon-152x152.png",
@@ -38,7 +40,8 @@
         {
             "src": "img/icons/icon-192x192.png",
             "type": "image/png",
-            "sizes": "192x192"
+            "sizes": "192x192",
+            "purpose": "any maskable"
         },
         {
             "src": "img/icons/icon-384x384.png",
